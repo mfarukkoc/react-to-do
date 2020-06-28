@@ -56,6 +56,7 @@ function ToDoItem(props) {
         onChange={(e) => setContent(e.target.value)}
         onDoubleClick={() => setEditEnabled(true)}
         onBlur={() => setEditEnabled(false)}
+        style={editEnabled ? { border: '1px solid #333333' } : {}}
       />
 
       <div className="todo-item-control">
