@@ -1,0 +1,147 @@
+.todo-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 3.5vh 2.5vh 0;
+  width: 70%;
+  border-bottom: 1px solid #cecece;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: #333333;
+}
+
+.todo-item > input[type='checkbox'] {
+  zoom: 1.5;
+  margin: 0 10px 0 0;
+  font-size: 30px;
+}
+
+.todo-item p {
+  overflow-wrap: anywhere;
+}
+.todo-item-control {
+  display: flex;
+  margin-left: auto;
+}
+.todo-item-control svg {
+  min-height: 20px;
+  min-width: 20px;
+  color: #333333;
+  cursor: pointer;
+}
+
+.todo-item > input[type='text'] {
+  border: none;
+  background-image: none;
+  background-color: transparent;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  width: 100%;
+  padding: 2px;
+  margin: 0 15px 0 0;
+  overflow: auto;
+}
+
+.todo-item > input[type='text']:focus {
+  outline: none !important;
+}
+
+.add-item {
+  width: 70%;
+  display: flex;
+  min-height: 2.5vh;
+}
+
+.add-item > input[type='text'] {
+  display: block;
+  width: 80%;
+  margin: 0;
+  margin-right: 2%;
+  border-radius: 15px;
+  border: 1px solid lightgray;
+  font-size: 100%;
+  padding: 5px;
+  font-family: Roboto, sans-serif;
+}
+
+.add-item > input[type='text']:focus {
+  border-radius: 15px;
+  outline: none !important;
+  border: 1px solid #333333;
+}
+
+.add-button {
+  width: 20%;
+  background-color: transparent;
+  border: 1px solid lightgray;
+  padding: 2%;
+  transition: 0.2s;
+  border-radius: 15px;
+  text-align: center;
+  font-size: small;
+  color: #333333;
+  margin: 0.5px;
+  font-family: Roboto, sans-serif;
+}
+
+.add-button:hover {
+  box-shadow: 0 1px 27px rgba(0, 0, 0, 0.25), 0 2px 10px rgba(0, 0, 0, 0.22);
+}
+
+.add-button:active {
+  position: relative;
+  top: 2px;
+}
+
+.add-button:focus {
+  outline: none !important;
+  border: 1px solid #333333;
+}
+
+.App {
+  background-color: white;
+  margin: 5% auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #efefef;
+  border-radius: 20px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  padding: 30px;
+}
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+  .App {
+    width: 95%;
+  }
+}
+
+.item-categories {
+  display: flex;
+  width: 70%;
+  justify-content: space-around;
+  border-bottom: 1px solid #cecece;
+}
+
+.category {
+  transition: 0.2s;
+  padding-top: 2vh;
+  margin-bottom: 1vh;
+  color: #333333;
+  border-bottom: 1px solid transparent;
+  cursor: pointer;
+}
+
+.category:hover {
+  border-bottom: 1px solid #cecece;
+}
+
+.category-active {
+  border-bottom: 1px solid #333333;
+}
