@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import {
-  BrowserRouter as Router,
+  BrowserRouter as HashRouter,
   Switch,
   Route,
   Redirect,
@@ -11,7 +11,7 @@ import SignUp from '../SignUp';
 import { FirebaseContext } from '../Firebase';
 const App = () => {
   return (
-    <Router>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <PrivateRoute exact path="/">
           <Home />
@@ -25,7 +25,7 @@ const App = () => {
           <SignUp />
         </Route>
       </Switch>
-    </Router>
+    </HashRouter>
   );
 };
 
