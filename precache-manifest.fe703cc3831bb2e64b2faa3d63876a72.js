@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f857f4aa4dd02c118b0755fc7e908379",
+    "revision": "9166cbf42a2fec716ec5bde2a1a5e76f",
     "url": "/react-to-do/index.html"
   },
   {
-    "revision": "5a13cb06e6d6ee8a4125",
+    "revision": "67d74fd81942ba5875e1",
     "url": "/react-to-do/static/css/main.f7d40f08.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-to-do/static/js/2.731a72a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a13cb06e6d6ee8a4125",
-    "url": "/react-to-do/static/js/main.46367e2a.chunk.js"
+    "revision": "67d74fd81942ba5875e1",
+    "url": "/react-to-do/static/js/main.0ac64dee.chunk.js"
   },
   {
     "revision": "937a9eca39302de3b5e8",
