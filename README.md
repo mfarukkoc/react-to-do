@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 ## React-To-Do
+=======
+## [React-To-Do](https://mfarukkoc.github.io/react-to-do/)
+>>>>>>> 2bbf3a0b0328d5a547570390da882bdd37ebc551
 
 Simple beginner project for learning React and Firebase.
 
