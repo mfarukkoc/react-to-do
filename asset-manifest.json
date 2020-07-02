@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "http://mfarukkoc.github.io/react-to-do/static/css/main.f7d40f08.chunk.css",
-    "main.js": "http://mfarukkoc.github.io/react-to-do/static/js/main.bd905233.chunk.js",
-    "main.js.map": "http://mfarukkoc.github.io/react-to-do/static/js/main.bd905233.chunk.js.map",
-    "runtime-main.js": "http://mfarukkoc.github.io/react-to-do/static/js/runtime-main.85ea692d.js",
-    "runtime-main.js.map": "http://mfarukkoc.github.io/react-to-do/static/js/runtime-main.85ea692d.js.map",
-    "static/js/2.52ddf35d.chunk.js": "http://mfarukkoc.github.io/react-to-do/static/js/2.52ddf35d.chunk.js",
-    "static/js/2.52ddf35d.chunk.js.map": "http://mfarukkoc.github.io/react-to-do/static/js/2.52ddf35d.chunk.js.map",
-    "index.html": "http://mfarukkoc.github.io/react-to-do/index.html",
-    "precache-manifest.e1ad8d29c8cece7006dd87bada471637.js": "http://mfarukkoc.github.io/react-to-do/precache-manifest.e1ad8d29c8cece7006dd87bada471637.js",
-    "service-worker.js": "http://mfarukkoc.github.io/react-to-do/service-worker.js",
-    "static/css/main.f7d40f08.chunk.css.map": "http://mfarukkoc.github.io/react-to-do/static/css/main.f7d40f08.chunk.css.map",
-    "static/js/2.52ddf35d.chunk.js.LICENSE.txt": "http://mfarukkoc.github.io/react-to-do/static/js/2.52ddf35d.chunk.js.LICENSE.txt"
+    "main.css": "https://mfarukkoc.github.io/react-to-do/static/css/main.f7d40f08.chunk.css",
+    "main.js": "https://mfarukkoc.github.io/react-to-do/static/js/main.13d9a99c.chunk.js",
+    "main.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/main.13d9a99c.chunk.js.map",
+    "runtime-main.js": "https://mfarukkoc.github.io/react-to-do/static/js/runtime-main.df1fac37.js",
+    "runtime-main.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/runtime-main.df1fac37.js.map",
+    "static/js/2.1c877bf1.chunk.js": "https://mfarukkoc.github.io/react-to-do/static/js/2.1c877bf1.chunk.js",
+    "static/js/2.1c877bf1.chunk.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/2.1c877bf1.chunk.js.map",
+    "index.html": "https://mfarukkoc.github.io/react-to-do/index.html",
+    "precache-manifest.883ad47c17d2aecdf9b3dfbb917f25a1.js": "https://mfarukkoc.github.io/react-to-do/precache-manifest.883ad47c17d2aecdf9b3dfbb917f25a1.js",
+    "service-worker.js": "https://mfarukkoc.github.io/react-to-do/service-worker.js",
+    "static/css/main.f7d40f08.chunk.css.map": "https://mfarukkoc.github.io/react-to-do/static/css/main.f7d40f08.chunk.css.map",
+    "static/js/2.1c877bf1.chunk.js.LICENSE.txt": "https://mfarukkoc.github.io/react-to-do/static/js/2.1c877bf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.85ea692d.js",
-    "static/js/2.52ddf35d.chunk.js",
+    "static/js/runtime-main.df1fac37.js",
+    "static/js/2.1c877bf1.chunk.js",
     "static/css/main.f7d40f08.chunk.css",
-    "static/js/main.bd905233.chunk.js"
+    "static/js/main.13d9a99c.chunk.js"
   ]
 }
