@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://mfarukkoc.github.io/react-to-do/static/css/main.f7d40f08.chunk.css",
-    "main.js": "https://mfarukkoc.github.io/react-to-do/static/js/main.5dcd67b8.chunk.js",
-    "main.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/main.5dcd67b8.chunk.js.map",
+    "main.js": "https://mfarukkoc.github.io/react-to-do/static/js/main.71d77327.chunk.js",
+    "main.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/main.71d77327.chunk.js.map",
     "runtime-main.js": "https://mfarukkoc.github.io/react-to-do/static/js/runtime-main.df1fac37.js",
     "runtime-main.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/runtime-main.df1fac37.js.map",
     "static/js/2.1c877bf1.chunk.js": "https://mfarukkoc.github.io/react-to-do/static/js/2.1c877bf1.chunk.js",
     "static/js/2.1c877bf1.chunk.js.map": "https://mfarukkoc.github.io/react-to-do/static/js/2.1c877bf1.chunk.js.map",
     "index.html": "https://mfarukkoc.github.io/react-to-do/index.html",
-    "precache-manifest.2c791beeaa6f9494da1275d5e18ca334.js": "https://mfarukkoc.github.io/react-to-do/precache-manifest.2c791beeaa6f9494da1275d5e18ca334.js",
+    "precache-manifest.14a96f2cb3534bb2ee12a6e08e8e91a2.js": "https://mfarukkoc.github.io/react-to-do/precache-manifest.14a96f2cb3534bb2ee12a6e08e8e91a2.js",
     "service-worker.js": "https://mfarukkoc.github.io/react-to-do/service-worker.js",
     "static/css/main.f7d40f08.chunk.css.map": "https://mfarukkoc.github.io/react-to-do/static/css/main.f7d40f08.chunk.css.map",
     "static/js/2.1c877bf1.chunk.js.LICENSE.txt": "https://mfarukkoc.github.io/react-to-do/static/js/2.1c877bf1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.df1fac37.js",
     "static/js/2.1c877bf1.chunk.js",
     "static/css/main.f7d40f08.chunk.css",
-    "static/js/main.5dcd67b8.chunk.js"
+    "static/js/main.71d77327.chunk.js"
   ]
 }
