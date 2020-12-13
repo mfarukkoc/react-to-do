@@ -11,7 +11,7 @@ import SignUp from '../SignUp';
 import { FirebaseContext } from '../Firebase';
 const App = () => {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Switch>
         <PrivateRoute exact path="/">
           <Home />
